@@ -1,6 +1,11 @@
 # AlpineAgility ⛰️🏞️
 
 Experience the lightweight design of Alpine Linux on your Android device with AlpineAgility! 🚀
+# installation
+simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) and transform your Android device into a Linux powerhouse effortlessly! 🚀💻📱
+<p align="center">  
+   <a href="https://github.com/AryanVBW/LinuxDroid/tree/main#linuxdroid">
+<img src="https://github.com/AryanVBW/ParrotSecurityOsForAndroid/releases/download/Gif/visithere.gif" alt="Darkside"></a></p>
 
 ## 🌟 Key Features:
 
