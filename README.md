@@ -13,12 +13,7 @@ simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) 
 
 - **Lightweight Design:** Embrace the simplicity and speed of Alpine Linux.
 
-## 🚀 Getting Started:
-
-1. Clone this repository to your Android device.
-2. Navigate to the AlpineAgility directory.
-3. Follow the installation instructions in the README file.
-4. Unleash the agility of Alpine Linux on your Android!
+## 🚀 Getting Started:Unleash the agility of Alpine Linux on your Android!
 
 ## 🤝 Contribution and Support:
 
